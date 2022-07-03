@@ -25,13 +25,6 @@ TensorFlow = V2
 <br>
 TensorFlow = V2
 
-pandas~=1.4.3
-scikit-learn~=1.1.1
-matplotlib~=3.5.2
-nltk~=3.7
-numpy~=1.23.0
-scipy~=1.8.1
-TensorFlow = V2
 
 # Quickstart
 
