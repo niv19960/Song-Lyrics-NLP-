@@ -22,8 +22,6 @@ numpy~=1.23.0
 scipy~=1.8.1
 <br>
 TensorFlow = V2
-<br>
-TensorFlow = V2
 
 
 # Quickstart
