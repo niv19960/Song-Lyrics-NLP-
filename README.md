@@ -20,6 +20,8 @@ sklearn = 1.1.1
 scipy = 1.7.1
 <br>
 matplotlib = 3.4.3
+<br>
+TensorFlow = V2
 
 # Quickstart
 
