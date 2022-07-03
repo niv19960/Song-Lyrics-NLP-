@@ -9,18 +9,28 @@ Enviornment: PyCharm | Jupyter Notebook
 <br>
 Python = 3.9
 <br>
-pandas = 1.3.4
+pandas~=1.4.3
 <br>
-numpy = 1.20.3
+scikit-learn~=1.1.1
 <br>
-nltk = 3.6.5
+matplotlib~=3.5.2
 <br>
-sklearn = 1.1.1
+nltk~=3.7
 <br>
-scipy = 1.7.1
+numpy~=1.23.0
 <br>
-matplotlib = 3.4.3
+scipy~=1.8.1
 <br>
+TensorFlow = V2
+<br>
+TensorFlow = V2
+
+pandas~=1.4.3
+scikit-learn~=1.1.1
+matplotlib~=3.5.2
+nltk~=3.7
+numpy~=1.23.0
+scipy~=1.8.1
 TensorFlow = V2
 
 # Quickstart
