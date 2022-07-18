@@ -1,7 +1,7 @@
 # Song-Lyrics-NLP-
 
 # Repo intro
-Building a classifier that predicts whether a song is positive or negative.
+Valence prediction from lyrics- building a classifier that predicts whether a song is positive or negative.
 
 # Installation | Requirements
 
