@@ -34,7 +34,7 @@ scipy~=1.8.1
 <br>
 TensorFlow = V2
 <br>
-glove
+keras~=2.9.0
 
 # Quickstart
 
