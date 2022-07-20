@@ -1,13 +1,17 @@
 # Song-Lyrics-NLP-
+Emotion classification of a song is a common problem with several applications solved by analyzing boath aoudio and lyrics. 
+We will intreduce two different types of models that predict the emotion that comes from a song's lyrics.
 
 # Repo intro
 Valence prediction from lyrics- building a classifier that predicts whether a song is positive or negative.
-Classic model:
 
 
-## Neural Network Architecture and Implementation
-Neural Network for lyrics mood Binary- Classification in Keras
-![context model](/docs/context_model.png)
+## Classic model:
+
+
+## Neural Network model:
+Neural Network for lyrics mood Binary- Classification in Keras.
+The approach is to use a Neural Network which uses pre-trained GloVe embeddings, bidirectional-LSTM layer to classify whether the song is happy or sad.
 # Installation | Requirements
 
 Enviornment: PyCharm | Jupyter Notebook
@@ -27,7 +31,8 @@ numpy~=1.23.0
 scipy~=1.8.1
 <br>
 TensorFlow = V2
-
+<br>
+glove
 
 # Quickstart
 
