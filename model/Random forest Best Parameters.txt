@@ -1,0 +1,1 @@
+{"bootstrap": false, "max_depth": null, "n_estimators": 256}
