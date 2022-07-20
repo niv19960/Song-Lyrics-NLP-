@@ -1,6 +1,8 @@
 # Song-Lyrics-NLP-
-Emotion classification of a song is a common problem with several applications solved by analyzing boath aoudio and lyrics. 
-We will intreduce two different types of models that predict the emotion that comes from a song's lyrics.
+Sentiment classification in music is a common problem with numerous applications. Many companies in many fields are interested in satisfying their audience with the right music. One central feature is the positiveness of a song. In this project, we try to create a model which predicts if a song's lyric is positive or not.
+<br>
+Valence: Describes the musical positiveness conveyed by a track. Tracks with high valence sound more positive (e.g. happy, cheerful, euphoric), while tracks with low valence sound more negative (e.g. sad, depressed, angry).
+
 
 # Repo intro
 Valence prediction from lyrics- building a classifier that predicts whether a song is positive or negative.
