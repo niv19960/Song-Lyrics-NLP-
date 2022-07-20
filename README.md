@@ -13,6 +13,8 @@ Please activate the 'StandAloneModel' with the '3_Optimization Data.csv' file.
 All results (before and after fine tuning) are in results file.
 
 ## Neural Network model:
+Please activate the 'NNModel' with the '2_ML data.csv' file. Loading the weights from model file. The results are in the results file. 
+<br>
 Neural Network for lyrics mood Binary- Classification in Keras.
 The approach is to use a Neural Network which uses pre-trained GloVe embeddings, bidirectional-LSTM layer to classify whether the song is happy or sad.
 # Installation | Requirements
