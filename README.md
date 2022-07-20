@@ -9,7 +9,8 @@ Valence prediction from lyrics- building a classifier that predicts whether a so
 
 
 ## Classic model:
-
+Please activate the 'StandAloneModel' with the '3_Optimization Data.csv' file.
+All results (before and after fine tuning) are in results file.
 
 ## Neural Network model:
 Neural Network for lyrics mood Binary- Classification in Keras.
