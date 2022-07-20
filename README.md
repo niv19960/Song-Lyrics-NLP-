@@ -2,7 +2,12 @@
 
 # Repo intro
 Valence prediction from lyrics- building a classifier that predicts whether a song is positive or negative.
+Classic model:
 
+
+## Neural Network Architecture and Implementation
+Neural Network for lyrics mood Binary- Classification in Keras
+![context model](/docs/context_model.png)
 # Installation | Requirements
 
 Enviornment: PyCharm | Jupyter Notebook
