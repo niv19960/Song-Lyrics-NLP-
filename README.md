@@ -36,6 +36,7 @@ scipy~=1.8.1
 TensorFlow = V2
 <br>
 keras~=2.9.0
+Glove
 
 # Quickstart
 
